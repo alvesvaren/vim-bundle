@@ -1,0 +1,6 @@
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "vim-dracula"]
+	path = vim-dracula
+	url = git@github.com:dracula/vim.git
