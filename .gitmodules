@@ -7,3 +7,6 @@
 [submodule "vim-archery"]
 	path = vim-archery
 	url = git@github.com:Badacadabra/vim-archery.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = git@github.com:scrooloose/nerdtree
