@@ -4,3 +4,6 @@
 [submodule "vim-dracula"]
 	path = vim-dracula
 	url = git@github.com:dracula/vim.git
+[submodule "vim-archery"]
+	path = vim-archery
+	url = git@github.com:Badacadabra/vim-archery.git
