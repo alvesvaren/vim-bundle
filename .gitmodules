@@ -1,13 +1,13 @@
 [submodule "vim-airline"]
 	path = vim-airline
-	url = git@github.com:vim-airline/vim-airline.git
+	url = https://github.com/vim-airline/vim-airline.git
 [submodule "vim-dracula"]
 	path = vim-dracula
-	url = git@github.com:dracula/vim.git
+	url = https://github.com/dracula/vim.git
 [submodule "vim-archery"]
 	path = vim-archery
-	url = git@github.com:Badacadabra/vim-archery.git
+	url = https://github.com/Badacadabra/vim-archery.git
 [submodule "nerdtree"]
 	path = nerdtree
-	url = git@github.com:scrooloose/nerdtree
+	url = https://github.com/scrooloose/nerdtree
 
