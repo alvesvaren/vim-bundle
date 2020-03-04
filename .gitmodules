@@ -13,3 +13,6 @@
 [submodule "vim-onehalf"]
 	path = vim-onehalf
 	url = https://github.com/alvesvaren/vim-onehalf.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
